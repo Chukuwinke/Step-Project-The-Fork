@@ -2,5 +2,5 @@ import '../scss/app.scss';
 
 /* Your JS Code goes here */
 
-/* Demo JS */
+/* main JS */
 import './main.js';
